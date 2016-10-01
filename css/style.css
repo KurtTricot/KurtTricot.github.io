@@ -1,3 +1,8 @@
+body, ul, p{
+	margin: 10px 5px 15px 20px;
+	align-content: center;
+}
+
 ul {
 	list-style-type:none;
 	top:0;
